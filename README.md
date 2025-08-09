@@ -21,7 +21,7 @@ This isn't even my main github, those stars aren't going anywhere really.
 Perhaps, we can then create an issue here to discuss ummah stuff, github-style.
 
 With salams,
-the repo's creator, web maintainer, also dns maintainer.
+the repo & web maintainer.
 
 Multiple sources for High-availability. Something might happen to this.
 
