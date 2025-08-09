@@ -6,7 +6,7 @@ And salah and salaam to the Messenger of Allah / Wassalaatu wassalaamu 'alaa ras
 
 Often times, there are voices asking to unite--some are even under some kind of facade for wordly interests
 
-This is coming from an IT guy, there are no benefits from me whatsoever.
+This is coming from an IT guy, there are no benefits for me whatsoever.
 
 I've looked at github's muslim-tagged repo is often just quran again, azan again, adkar again.
 
